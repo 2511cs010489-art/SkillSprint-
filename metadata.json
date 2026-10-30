@@ -1,0 +1,6 @@
+{
+  "name": "SkillSprint",
+  "description": "Verified peer-to-peer student skill exchange and task-based micro-internship platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
